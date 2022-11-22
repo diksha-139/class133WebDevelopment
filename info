@@ -1,0 +1,6 @@
+>>>python -m venv <name of virtual environment>
+
+>>>open command prompt
+>>>go to the project folder
+>>><name of virtual environment>\Scripts\activate
+>>>(<name of virtual environment>)>>>pip install flask
